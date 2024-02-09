@@ -1,0 +1,14 @@
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.AssemblyInfoInputs.cache
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.AssemblyInfo.cs
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.csproj.CoreCompileInputs.cache
+C:\Programs\Address\Address\bin\Debug\net8.0\Address.exe
+C:\Programs\Address\Address\bin\Debug\net8.0\Address.deps.json
+C:\Programs\Address\Address\bin\Debug\net8.0\Address.runtimeconfig.json
+C:\Programs\Address\Address\bin\Debug\net8.0\Address.dll
+C:\Programs\Address\Address\bin\Debug\net8.0\Address.pdb
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.dll
+C:\Programs\Address\Address\obj\Debug\net8.0\refint\Address.dll
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.pdb
+C:\Programs\Address\Address\obj\Debug\net8.0\Address.genruntimeconfig.cache
+C:\Programs\Address\Address\obj\Debug\net8.0\ref\Address.dll

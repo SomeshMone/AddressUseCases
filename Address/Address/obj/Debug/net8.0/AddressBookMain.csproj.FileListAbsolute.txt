@@ -1,0 +1,14 @@
+C:\Programs\Address\Address\bin\Debug\net8.0\AddressBookMain.exe
+C:\Programs\Address\Address\bin\Debug\net8.0\AddressBookMain.deps.json
+C:\Programs\Address\Address\bin\Debug\net8.0\AddressBookMain.runtimeconfig.json
+C:\Programs\Address\Address\bin\Debug\net8.0\AddressBookMain.dll
+C:\Programs\Address\Address\bin\Debug\net8.0\AddressBookMain.pdb
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.AssemblyInfoInputs.cache
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.AssemblyInfo.cs
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.csproj.CoreCompileInputs.cache
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.dll
+C:\Programs\Address\Address\obj\Debug\net8.0\refint\AddressBookMain.dll
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.pdb
+C:\Programs\Address\Address\obj\Debug\net8.0\AddressBookMain.genruntimeconfig.cache
+C:\Programs\Address\Address\obj\Debug\net8.0\ref\AddressBookMain.dll
